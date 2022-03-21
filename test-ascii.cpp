@@ -2,7 +2,7 @@
 Author: Sakib Khan 
 Course: CSCI-135
 Instructor: Tong Yi
-Assignment: Lab1B
+Assignment: Lab1A
 Asks user to input a line
 of text and will report 
 all characters.
